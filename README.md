@@ -2,7 +2,7 @@
 Levando com consideração que autenticação com o token tradicional está funcionando o que vai mudar para se gerar um token apartir de um refresh token seriam as linhas
 
 
-#Método 
+# Método
 @Override
 	public void configure(ClientDetailsServiceConfigurer clients) throws Exception {
 
@@ -11,7 +11,7 @@ Levando com consideração que autenticação com o token tradicional está func
 .refreshTokenValiditySeconds(3600 * 24);
 
 
-#Metodo : 
+# Método
 
 @Override
 public void configure(AuthorizationServerEndpointsConfigurer endpoints) throws Exception {
