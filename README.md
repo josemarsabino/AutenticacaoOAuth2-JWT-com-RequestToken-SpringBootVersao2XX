@@ -1,6 +1,5 @@
 # AutenticacaoOAuth2-JWT-com-RequestToken-SpringBootVersao2XX
-Levando com consideração que autenticação com o token tradicional está funcionando o que vai mudar para se gerar um token apartir de um refresh token seriam as linhas
-
+Considerar que o projeto de nome "AutenticacaoOAuth2-JWT-SpringBootVersao2XX" está funcionando corretamente. Projeto disponível no git.
 
 # Método
 @Override
